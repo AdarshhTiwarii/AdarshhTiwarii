@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @AdarshhTiwarii
+- 👀 I’m interested in exploring new technologies, web development, and machine learning.
+- 🌱 I’m currently learning and enhancing my skills in Python, Java, and web development technologies like NextJs, Tailwind CSS, and Flask.
+- 💞️ I’m looking to collaborate on projects related to web development, machine learning, and innovative tech solutions.
+- 📫 How to reach me: 
+  - Email: atiwari0407@gmail.com
+  - LinkedIn: [Adarsh Tiwari](https://www.linkedin.com/in/adarsh-tiwari-6b46aa201/)
+  - GitHub: [AdarshhTiwarii](https://github.com/AdarshhTiwarii)
